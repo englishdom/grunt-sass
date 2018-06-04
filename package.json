@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "each-async": "^1.0.0",
-    "node-sass": "englishdom/node-sass",
+    "node-sass": "englishdom/node-sass#3.4.2a",
     "object-assign": "^4.0.1"
   },
   "devDependencies": {
